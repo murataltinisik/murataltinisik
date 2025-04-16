@@ -49,8 +49,3 @@ Merhaba! Ben Murat Altınışık, 7 yıldır profesyonel olarak yazılım geliş
 - 🧠 Yazılım mimarisi, performans optimizasyonu ve temiz kod benim için olmazsa olmazlardan.  
 - 🎯 Öğrenmeye ve gelişmeye her zaman açığım.  
 - 📈 Takım çalışmasına yatkın, üretkenliği önemseyen bir yapıya sahibim.
-
----
-
-## 📫 Bana Ulaşın
-- GitHub üzerinden projelerime göz atmayı unutmayın!
