@@ -1,54 +1,73 @@
-# 👋 Merhaba, Ben Murat Altınışık
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-🚀_YKS_2026_Hazırlanıyor-FF4B4B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-7_Years-007ACC?style=for-the-badge&logoColor=white" />
-</p>
+```
+███╗   ███╗██╗   ██╗██████╗  █████╗ ████████╗
+████╗ ████║██║   ██║██╔══██╗██╔══██╗╚══██╔══╝
+██╔████╔██║██║   ██║██████╔╝███████║   ██║   
+██║╚██╔╝██║██║   ██║██╔══██╗██╔══██║   ██║   
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║   ██║   
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
+```
 
-### 🎯 Odak Noktam
+# Murat Altınışık
 
-7 yıldır full-stack ekosisteminde; **temiz kod (clean code)**, **sürdürülebilir mimari** ve **yüksek performanslı kurumsal çözümler** geliştiriyorum. Karmaşık iş mantıklarını, kullanıcı dostu ve ölçeklenebilir sistemlere dönüştürmek ana motivasyonum.
+**Full-Stack Engineer · Framework Author · Systems Thinker**
 
----
+[![Email](https://img.shields.io/badge/altinisikmurat396%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:altinisikmurat396@gmail.com)
+&nbsp;
+![Experience](https://img.shields.io/badge/7_Years_Experience-0A0A0A?style=flat-square)
+&nbsp;
+![Status](https://img.shields.io/badge/Open_to_Collaboration-22C55E?style=flat-square)
 
-## 🛠️ Teknoloji Radarım
-
-| Alan              | Teknolojiler                                                                                                                                                                                                                                                                                                      |
-| :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frontend**      | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css) |
-| **Backend**       | ![.NET](https://img.shields.io/badge/-.NET_Core-512BD4?logo=dotnet) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel)                                                                                                   |
-| **Veritabanı**    | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql) ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis)                                                                                     |
-| **Mobil & Diğer** | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) ![Microservices](https://img.shields.io/badge/-Microservices-orange)                                                                                             |
-
----
-
-## 🚀 Öne Çıkan Projeler & Frameworkler
-
-<table border="0">
-  <tr>
-    <td width="50%">
-      <h3>💎 GoldUI</h3>
-      <p>Modern ve tip güvenli UI bileşen kütüphanesi.</p>
-      <a href="https://v2.goldui.com"><b>İncele →</b></a>
-    </td>
-    <td width="50%">
-      <h3>⚡ AxisNet</h3>
-      <p>.NET tabanlı yüksek performanslı kurumsal framework.</p>
-      <a href="https://axisnet.dev"><b>İncele →</b></a>
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-## 📫 Benimle İletişime Geç
+## About
 
-<p align="left">
-  <a href="mailto:altinisikmurat396@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+I build systems that scale — clean architectures, high-performance backends, and polished frontends that hold up under real-world conditions. With 7 years in the full-stack ecosystem, my work sits at the intersection of engineering rigor and product thinking.
+
+My focus: turning complex business logic into maintainable, well-structured solutions that teams can actually work with.
+
+> *"Code is written for humans first, machines second."*
 
 ---
 
-<p align="center">
-  <i>"Kod sadece makineler için değil, insanlar için de okunabilir olmalıdır."</i>
-</p>
+## Stack
+
+| Layer | Technologies |
+|---|---|
+| **Frontend** | React · Next.js · TypeScript · Tailwind CSS |
+| **Backend** | .NET Core · Node.js · Laravel |
+| **Data** | PostgreSQL · MSSQL · Redis |
+| **Infrastructure** | Docker · Microservices · REST / gRPC |
+| **Mobile** | React Native |
+
+---
+
+## Projects
+
+### [GoldUI](https://v2.goldui.com)
+A modern, type-safe UI component library built for developer ergonomics and design consistency. Composable, accessible, and production-ready.
+
+### [AxisNet](https://axisnet.dev)
+A high-performance enterprise framework for .NET. Designed around clean architecture principles with a focus on modularity and long-term maintainability.
+
+---
+
+## Principles
+
+```
+Clean Code       →  Readable, self-documenting, intentional
+Architecture     →  Scalable from day one, not refactored into it
+Performance      →  Measured, not assumed
+Collaboration    →  Systems built for the teams that maintain them
+```
+
+---
+
+<div align="center">
+
+**[altinisikmurat396@gmail.com](mailto:altinisikmurat396@gmail.com)**
+
+</div>
